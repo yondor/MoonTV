@@ -85,10 +85,6 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "hhzy": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "豪华资源"
-    },
     "jszy": {
       "api": "https://jszyapi.com/api.php/provide/vod",
       "name": "极速资源"
