@@ -109,6 +109,14 @@
       "api": "http://slapibf.com/api.php/provide/vod/",
       "name": "森林资源"
     },
+    "zuidazy": {
+      "api": "http://zuidazy.me/api.php/provide/vod/",
+      "name": "最大资源"
+    },
+    "sdzy": {
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电资源"
+    },
     "aivin": {
       "api": "http://lbapiby.com/api.php/provide/vod/",
       "name": "AIvin资源"
@@ -128,6 +136,26 @@
     "lsbzy": {
       "api": "http://apilsbzy1.com/api.php/provide/vod/",
       "name": "老色逼资源"
+    },
+    "lbapi9": {
+      "api": "http://lbapi9.com/api.php/provide/vod/",
+      "name": "乐播资源"
+    },
+    "91md": {
+      "api": "https://91md.me/api.php/provide/vod/",
+      "name": "91麻豆"
+    },
+    "aosikazy": {
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+      "name": "奥斯卡资源"
+    },
+    "shayu": {
+      "api": "https://shayuapi.com/api.php/provide/vod/",
+      "name": "鲨鱼资源"
+    },
+    "naixxzy": {
+      "api": "https://naixxzy.com/api.php/provide/vod/",
+      "name": "奶香香资源"
     }
   }
 }
