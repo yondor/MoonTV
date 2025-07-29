@@ -129,10 +129,6 @@
       "api": "http://jingpinx.com/api.php/provide/vod/",
       "name": "精品资源"
     },
-    "caoliuzyw": {
-      "api": "http://caoliuzyw.com/api.php/provide/vod/",
-      "name": "草榴资源"
-    },
     "lsbzy": {
       "api": "http://apilsbzy1.com/api.php/provide/vod/",
       "name": "老色逼资源"
