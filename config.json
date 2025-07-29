@@ -84,6 +84,50 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "hhzy": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
+    "jszy": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源"
+    },
+    "snzy": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
+    },
+    "ffzy": {
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "name": "非凡资源"
+    },
+    "fhzy": {
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+      "name": "番号资源"
+    },
+    "slzy": {
+      "api": "http://slapibf.com/api.php/provide/vod/",
+      "name": "森林资源"
+    },
+    "aivin": {
+      "api": "http://lbapiby.com/api.php/provide/vod/",
+      "name": "AIvin资源"
+    },
+    "yutu": {
+      "api": "http://apiyutu.com/api.php/provide/vod/",
+      "name": "玉兔资源"
+    },
+    "jingpinx": {
+      "api": "http://jingpinx.com/api.php/provide/vod/",
+      "name": "精品资源"
+    },
+    "caoliuzyw": {
+      "api": "http://caoliuzyw.com/api.php/provide/vod/",
+      "name": "草榴资源"
+    },
+    "lsbzy": {
+      "api": "http://apilsbzy1.com/api.php/provide/vod/",
+      "name": "老色逼资源"
     }
   }
 }
